@@ -1,8 +1,8 @@
 namespace prySampaolesiGitHub
 {
-    public partial class Form1 : Form
+    public partial class frmGitHub : Form
     {
-        public Form1()
+        public frmGitHub()
         {
             InitializeComponent();
         }
